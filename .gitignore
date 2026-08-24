@@ -1,6 +1,0 @@
-*.o
-*.out
-*.exe
-leaderboard.txt
-.vscode/
-.idea/
